@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body{
-font-family: 'Fredoka One', cursive;
+font-family: 'Roboto', sans-serif;
 }
 
 .loader {
