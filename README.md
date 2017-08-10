@@ -11,6 +11,6 @@ Cryptovalue-React is a real-time dashboard showing the top 100 cryptocurrencies 
 ---------------------------
 
 Clone the repo
-$ cd Cryptovalue-React
-$ npm install
-$ npm start
+* cd Cryptovalue-React
+* npm install
+* npm start
