@@ -31,7 +31,7 @@ class App extends Component{
     return (
         <div>
         {this.state.data.map(
-          d=><Link to={`/coin/${d.symbol.toLowerCase()}`} key={d.id}>
+          d=><Link to={`/Cryptovalue-React/coin/${d.symbol.toLowerCase()}`} key={d.id}>
               <Box  name={d.name} usd={d.price_usd}  data={d} percent={d.percent_change_1h} symbol={d.symbol}/>
              </Link>)
         }
