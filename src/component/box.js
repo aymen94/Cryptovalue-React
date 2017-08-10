@@ -10,7 +10,7 @@ import '../style/bootstrap.min.css';
 
     render(){
   return(
-      <div>
+      <div className="column">
        <div className="panel panel-default col-xs-6 col-sm-4 col-md-3 col-lg-2 text-center" >
         <div className="panel-heading" >{this.props.name}</div>
         <div className="panel-body text-center ">
