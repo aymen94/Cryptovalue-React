@@ -5,10 +5,9 @@ Cryptovalue-React is a real-time dashboard showing the top 100 cryptocurrencies 
 
 ### DEMO : https://aymen94.github.io/Cryptovalue-React/
  
- ------------------------------------------------------------
+------------------------------------------------------------
  
 ## How to use
----------------------------
 
 Clone the repo
 * cd Cryptovalue-React
