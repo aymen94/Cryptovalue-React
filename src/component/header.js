@@ -5,7 +5,7 @@ class Header extends Component{
 
   render(){
       return(
-      <nav className="navbar navbar-default">
+      <nav className="navbar navbar-default   mobile-bar">
         <div className="container-fluid">
           <div className="navbar-header">
             <a className="navbar-brand" ><strong>{this.props.title}</strong></a>
@@ -19,7 +19,7 @@ class Header extends Component{
              </ul>
             </div>
         </div>
-        {this.modal}
+        
       </nav>
       );
     }

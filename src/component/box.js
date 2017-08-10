@@ -5,7 +5,7 @@ import '../style/bootstrap.min.css';
     if(this.props.percent<0)
       return <font color="red">{this.props.percent}%</font>;
       else
-        return <font color="green">{this.props.percent}%</font>;
+        return <font color="green">+{this.props.percent}%</font>;
       }
 
     render(){
