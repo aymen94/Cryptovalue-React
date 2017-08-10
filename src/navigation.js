@@ -9,9 +9,9 @@ return(
  <div>
   <Header title="Cryptovalue React"/>
   <Switch>
-   <Route exact path="/" name="app" component={App} />
-   <Route path="/coin/:coin_url" name="boxinfo" component={BoxInfo}/>
-   <Route path="/about" name="about" component={About}/>
+   <Route exact path="/Cryptovalue-React" name="app" component={App} />
+   <Route path="/Cryptovalue-React/coin/:coin_url" name="boxinfo" component={BoxInfo}/>
+   <Route path="/Cryptovalue-React/about" name="about" component={About}/>
   </Switch>
  </div>
 )

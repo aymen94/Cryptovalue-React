@@ -11,11 +11,11 @@ class Header extends Component{
             <a className="navbar-brand" ><strong>{this.props.title}</strong></a>
           </div>
           <ul className="nav navbar-nav">
-         <li className="active"><Link to='/'><a>Home</a></Link></li>
+         <li className="active"><Link to='/Cryptovalue-React/'><a>Home</a></Link></li>
           </ul>
             <div className="navbar-right">
             <ul className="nav navbar-nav">
-             <li className="active"><Link to='/about'><a>About</a></Link></li>
+             <li className="active"><Link to='/Cryptovalue-React/about'><a>About</a></Link></li>
              </ul>
             </div>
         </div>
