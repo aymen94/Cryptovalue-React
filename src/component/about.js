@@ -1,5 +1,4 @@
 import React from 'react';
-import '../style/bootstrap.min.css';
 
 
 const About=()=>{

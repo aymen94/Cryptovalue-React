@@ -2,9 +2,6 @@ import React,{Component} from 'react';
 import axios from 'axios';
 import CoinsConvert from '../data/data';
 import Error from './error';
-import '../style/bootstrap.min.css';
-import '../style/style.css';
-
 
 class BoxInfo extends Component{
 

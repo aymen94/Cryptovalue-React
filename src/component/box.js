@@ -1,5 +1,4 @@
 import React,{Component} from 'react';
-import '../style/bootstrap.min.css';
  class Box extends Component{
     percent(){
     if(this.props.percent<0)

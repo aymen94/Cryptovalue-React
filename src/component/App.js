@@ -2,7 +2,6 @@ import React,{Component} from 'react';
 import {Link} from 'react-router-dom';
 import axios from 'axios';
 import Box from './box';
-import '../style/bootstrap.min.css';
 
 
 class App extends Component{
